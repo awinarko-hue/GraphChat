@@ -1,0 +1,6 @@
+{
+  "name": "Komdigi Legal GraphRAG AI",
+  "description": "Sistem Asisten Regulasi Komunikasi & Digital (Komdigi / Ditjen DJID) berbasis GraphRAG dengan integrasi Gemini LLM yang stabil, responsif, dan akurat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
